@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '9664'
     url: http://www.gutenberg.org/2009/agents/9664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21001#Terre-Neuve-et-les-Terre-Neuviennes
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2007-04-06'
 gutenberg_type: Text
