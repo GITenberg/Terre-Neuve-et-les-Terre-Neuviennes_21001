@@ -1,0 +1,28 @@
+_repo: Terre-Neuve-et-les-Terre-Neuviennes_21001
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Chaume, Henri de
+    alias: Chaume, Henri de la
+    gutenberg_agent_id: '9664'
+    url: http://www.gutenberg.org/2009/agents/9664
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2007-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21001'
+  lccn: 01027508
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Newfoundland and Labrador -- Description and travel'
+- !lcc 'F1001'
+- !lcsh 'Canada -- Description and travel'
+title: Terre-Neuve et les Terre-Neuviennes
+url: http://www.gutenberg.org/ebooks/21001
